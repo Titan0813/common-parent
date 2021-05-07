@@ -41,6 +41,11 @@
                 <artifactId>log4j-staticshutdown</artifactId>
                 <version>1.1.0</version>
             </dependency>
+            <dependency>
+                <groupId>com.github.cafdataprocessing</groupId>
+                <artifactId>worker-document-testing-unit</artifactId>
+                <version>4.5.0-820</version>
+            </dependency>
         </dependencies>
 
     </dependencyManagement>
