@@ -46,6 +46,11 @@
                 <artifactId>worker-document-testing-unit</artifactId>
                 <version>4.5.0-820</version>
             </dependency>
+            <dependency>
+                <groupId>eu.benschroeder</groupId>
+                <artifactId>test-suite-junit4</artifactId>
+                <version>0.7</version>
+            </dependency>
         </dependencies>
 
     </dependencyManagement>
